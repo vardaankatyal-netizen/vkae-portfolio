@@ -10,39 +10,34 @@ My goal is to keep learning, building useful technology, and turning my ideas in
 
 ## 🛡️ What I Do
 
-I enjoy working across different areas of technology and creative work, including:
+I love to create various projects in the following:
 
-- 💻 Website development
-- 📱 App development
-- 🎮 Game development
-- 🔐 Ethical hacking and cybersecurity
-- 🧑‍💻 Coding
-- 🎨 Art and drawing
-- 🎤 Public speaking / oratory
-- 💃 Dancing
-- 🎵 Singing
+- Website development
+- App development
+- Game development
+- Ethical hacking and cybersecurity
+- Coding
+- Art and drawing
+- Public speaking / oratory
 
-These skills are reflected in my CV. fileciteturn1file0L36-L44
 
-## 🔐 My Interest in Cybersecurity
+##  My Interest in Cybersecurity
 
 Cybersecurity is one of the areas I am especially interested in.
 
-I have received **cybersecurity and ethical-hacking certifications, including certifications received from the Ministry of Education**, reflecting my interest in testing, finding and solving vulnerabilities. fileciteturn1file0L29-L30
+I have received **cybersecurity and ethical-hacking certifications, reflecting my interest in testing, finding and solving vulnerabilities and also creating technical projects.I want to continue developing my cybersecurity knowledge through practical projects, experiments and responsible security research.
 
-I want to continue developing my cybersecurity knowledge through practical projects, experimentation and responsible security research.
-
-## 🚀 Technology & Projects
+##  Technology & Projects
 
 I have developed many:
 
 - Websites
 - Games
 - Apps
-- Other technology projects
+- Others too
 - **Technology devices and projects created in 2026**
 
-I am also currently working on a **new horror game idea**, which I plan to release in the future. fileciteturn1file0L29-L33
+I am also currently working on a **new horror game idea**, which I plan to release in the future. 
 
 ## 🏆 Achievements
 
@@ -63,30 +58,27 @@ Some of the achievements I am proud of include:
 
 ## 👑 Leadership
 
-Leadership has been an important part of my school journey.
+Leadership has been an important part of my school journey.I have taken on leadership responsibilities through school activities and organizations, and I became **Cultural Captain for the 2025–2026 academic session and Head Boy of 2026-2027 sesssion**.
 
-I have taken on leadership responsibilities through school activities and organizations, and I became **Head Captain for the 2026–2027 academic session**.
-
-## 🎯 My Vision
+##  My Vision
 
 I want to combine **technology, cybersecurity, creativity and entrepreneurship** to build projects that are useful, interesting and innovative.
-
-**VKAE** represents that vision — a space where I can experiment with technology, build products, and keep improving as a developer and cybersecurity enthusiast.
+**VKAE** my new company, represents that vision — a space where I can experiment with technology, build products, and keep improving as a developer and cybersecurity enthusiast.
 
 ## 🌐 Connect With Me
 
 - **GitHub:** https://github.com/vardaankatyal-netizen
 - **Instagram:** https://www.instagram.com/vardaan_katyal/
 - **Email:** vardaankatyal@gmail.com
+- **LinkedIn** https://www.linkedin.com/in/vardaan-katyal-a91595361/
 
-## 📌 Portfolio
+##  Portfolio
 
-This repository contains my personal VKAE portfolio, including my projects, achievements, technology interests and cybersecurity-focused work.
+This repository contains my personal VKAE portfolio, including my projects, achievements, technology interests.
 
----
 
 ### VKAE
 
 **BUILD. SECURE. INNOVATE.**
 
-*This README is written from my point of view and is based on the information provided in my CV.*
+**This README is written from my point of view**
